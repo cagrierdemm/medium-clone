@@ -1,0 +1,88 @@
+a.button1{
+    background-color: rgba(8, 8, 8, 1);
+    padding: 9px 20px ;
+    border-width: 1px solid rgba(25, 25, 25, 1);
+    border-radius: 99em;
+    color: white;
+    font-family:  Helvetica, sans-serif;
+    font-size: small;
+    font-weight: 300;
+}
+
+a.button1:hover{
+    background-color: rgba(8, 8, 8, 1);
+    text-decoration: none;
+    color: white;
+}
+
+a.button2{
+    background-color: rgba(25, 25, 25, 1);
+    padding: 12px 50px ;
+    border-width: 1px solid rgba(25, 25, 25, 1);
+    border-radius: 99em;
+    color: white;
+    font-family:  Helvetica, sans-serif;
+    font-size: large;
+    font-weight: 550;
+}
+
+a.button2:hover{
+    background-color: rgba(0, 0, 0, 1);
+    text-decoration: none;
+    color: white;
+}
+
+a.button3{
+    padding: 7px 15px;
+    background-color: rgba(242, 242, 242, 1);
+    color: black;
+    border-radius: 100px;
+    margin-bottom: 10px;
+    font-size: small;
+}
+
+a.button4{
+    padding: 3px 15px;
+    background-color: rgba(242, 242, 242, 1);
+    color: black;
+    border-radius: 100px;
+    margin-bottom: 10px;
+    font-size: small;
+}
+
+.navbar-light a{
+    color: rgb(0, 0, 0);
+    font-size: 0.9em;
+    font-family: Helvetica, sans-serif;
+}
+
+.navbar-light a:hover{
+    color: rgb(0, 0, 0);
+    font-size: 0.9em;
+    font-family: Helvetica, sans-serif;
+}
+
+.color-number{
+    color: rgba(230, 230, 230, 1);
+}
+
+.bg-yellow{
+    background-color: #FFC017;
+}
+
+.border-bottom-dark{
+    border-bottom: 1px solid rgb(41,41,41);
+}
+
+.border-top-dark{
+    border-top: 1px solid rgba(230, 230, 230, 1);
+}
+
+.nav-gray{
+    color:rgba(117, 117, 117, 1);
+}
+
+.nav-gray:hover{
+    text-decoration: none;
+    color:rgba(117, 117, 117, 1);
+}
