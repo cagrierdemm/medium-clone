@@ -1,16 +1,19 @@
 #  Medium Clone | Bootstrap
 
-[Çağrı Erdem | Patika.dev Profilim](https://app.patika.dev/cagrierdem)
+# Sources
+ - [Bootstrap v4.5](https://getbootstrap.com/docs/4.5/)
+ - [Fontawesome v6.4.0](https://fontawesome.com)
 
-<!--  
+### Web Preview:
 
-### Web Önizleme:
+![Preview](assets/preview.jpg)
 
-![Onizleme](assets/onizleme.jpg)
+![Preview](assets/preview2.jpg)
 
-### Mobil Önizleme:
 
-![Onizleme](assets/onizleme2.jpg)
+### Mobile Preview:
 
--->
+![Preview](assets/mobile.jpg)
+
+
  
